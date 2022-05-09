@@ -604,7 +604,7 @@ footer .social-links {
     background-color: white;
   }
 
-  nav#navigation .menu li a.active,
+  nav#navigation .menu li a.active::after,
   nav#navigation .menu li a:hover::after {
     padding-inline: 0.8rem;
     width: 100%;

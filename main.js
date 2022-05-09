@@ -42,8 +42,7 @@ function activeMenuAtCurrentSection(section) {
   //o final da seção pasou da linha alvo
   const sectionEndPassedTargetLine = sectionEndsAt <= targetLine
 
-  console
-  log('O fundo da seção passou da linha?', sectionEndPassedTargetLine)
+  console.log('O fundo da seção passou da linha?', sectionEndPassedTargetLine)
 
   //limites da seção
   const sectionBoundaries =

@@ -676,13 +676,8 @@ footer .social-links {
 
   /* S-E-R-V-I-C-E-S */
   #services h2 {
-<<<<<<< HEAD
     width: 49.7rem;
     margin-inline: auto;
-=======
-   width: 49.7rem;
-   margin-inline: auto;
->>>>>>> cefd8b795a2c8874a31172c99a1df9c58650366e
   }
   #services .cards {
     flex-direction: row;
